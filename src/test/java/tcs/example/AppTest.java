@@ -7,6 +7,6 @@ public class AppTest {
 
     @Test
     public void testApp() {
-        assertEquals("Hello TCS", "Hello MasterCard");
+        assertEquals("Hello TCS & MasterCard", "Hello TCS & MasterCard");
     }
 }
